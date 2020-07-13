@@ -1,0 +1,86 @@
+{
+    "extensions": {
+        "extensions/fakenews": [
+            "update.json",
+            "hosts"
+        ],
+        "extensions/gambling": [
+            "update.json",
+            "hosts"
+        ],
+        "extensions/porn": [
+            "update.json",
+            "hosts"
+        ],
+        "extensions/social": [
+            "update.json",
+            "hosts"
+        ]
+    },
+    "sources": {
+        "data/Badd-Boyz-Hosts": [
+            "update.json",
+            "hosts"
+        ],
+        "data/KADhosts": [
+            "update.json",
+            "hosts"
+        ],
+        "data/StevenBlack": [
+            "update.json",
+            "hosts"
+        ],
+        "data/URLHaus": [
+            "update.json",
+            "hosts"
+        ],
+        "data/UncheckyAds": [
+            "update.json",
+            "hosts"
+        ],
+        "data/adaway.org": [
+            "update.json",
+            "hosts"
+        ],
+        "data/add.2o7Net": [
+            "update.json",
+            "hosts"
+        ],
+        "data/add.Dead": [
+            "update.json",
+            "hosts"
+        ],
+        "data/add.Risk": [
+            "update.json",
+            "hosts"
+        ],
+        "data/add.Spam": [
+            "update.json",
+            "hosts"
+        ],
+        "data/hostsVN": [
+            "update.json",
+            "hosts"
+        ],
+        "data/malwaredomainlist.com": [
+            "update.json",
+            "hosts"
+        ],
+        "data/mvps.org": [
+            "update.json",
+            "hosts"
+        ],
+        "data/someonewhocares.org": [
+            "update.json",
+            "hosts"
+        ],
+        "data/tiuxo": [
+            "update.json",
+            "hosts"
+        ],
+        "data/yoyo.org": [
+            "update.json",
+            "hosts"
+        ]
+    }
+}
